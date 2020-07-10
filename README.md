@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everybody 👋
 
 🌱 I’m currently learning more about the Data, how to understand it, how to extract knowledge from it, how to construct optimized pipelines, how to aggregate value in a business, how to build a future base on data driven.
 
