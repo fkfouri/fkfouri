@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently learning more about the Data, how to understand it, how to extract knowledge from it, how to construct optimized pipelines, how to aggregate value in a business, how to build a future base on data driven.
+
+I have a vision that the I.T. (Information Techonology) means to use all technologies needs to provide and support the 
+knowledge hierarchy like a jorney to elevate the comprehend of context from data to wisdom. If the techonology isn't used fot this maybe it is a E.T. (EntertainmentTechonology).
+
 <!--
 **fkfouri/fkfouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
