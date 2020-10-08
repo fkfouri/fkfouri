@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fkfouri&show_icons=true&hide_border=true)
 <!--
 ![Github top-langs/](https://github-readme-stats.vercel.app/api/top-langs/?username=fkfouri&hide=html&layout=compact&theme=buefy)
--->
+--> 
 ---
 ![](https://komarev.com/ghpvc/?username=fkfouri&color=blue&style=flat)
